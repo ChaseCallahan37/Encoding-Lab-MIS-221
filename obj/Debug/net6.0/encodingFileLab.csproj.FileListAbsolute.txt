@@ -1,0 +1,15 @@
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\bin\Debug\net6.0\encodingFileLab.exe
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\bin\Debug\net6.0\encodingFileLab.deps.json
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\bin\Debug\net6.0\encodingFileLab.runtimeconfig.json
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\bin\Debug\net6.0\encodingFileLab.dll
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\bin\Debug\net6.0\encodingFileLab.pdb
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\obj\Debug\net6.0\encodingFileLab.csproj.AssemblyReference.cache
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\obj\Debug\net6.0\encodingFileLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\obj\Debug\net6.0\encodingFileLab.AssemblyInfoInputs.cache
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\obj\Debug\net6.0\encodingFileLab.AssemblyInfo.cs
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\obj\Debug\net6.0\encodingFileLab.csproj.CoreCompileInputs.cache
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\obj\Debug\net6.0\encodingFileLab.dll
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\obj\Debug\net6.0\refint\encodingFileLab.dll
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\obj\Debug\net6.0\encodingFileLab.pdb
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\obj\Debug\net6.0\encodingFileLab.genruntimeconfig.cache
+C:\Users\chase\OneDrive\Documents\Source\Repos\mis221\labs\encodingFileLab\obj\Debug\net6.0\ref\encodingFileLab.dll
